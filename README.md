@@ -3,6 +3,8 @@ Analysis of Greater Sydney using numerical and spatial data. Python is used to i
 
 Link to report: https://github.com/weilong321/Analysis-of-Greater-Sydney/blob/main/report.pdf
 
+All python code is documented in the Data Cleaning jupyter notebook.
+
 ## Step 1:
   - Import all datasets into PostgreSQL server using a well-defined data schema. This is done through SQL script in schema.sql
 
